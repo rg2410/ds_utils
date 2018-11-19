@@ -7,4 +7,8 @@ setup(name='ds_utils',
       author='Rafael Fernandes',
       author_email='rafaelgomesfernandes@hotmail.com',
       packages=['ds_utils'],
+      install_requires=[
+          'networkx',
+          'pandas'
+      ]
       )
