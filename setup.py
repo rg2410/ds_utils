@@ -9,6 +9,7 @@ setup(name='ds_utils',
       packages=['ds_utils'],
       install_requires=[
           'networkx',
-          'pandas'
+          'pandas',
+          'matplotlib',
       ]
       )
