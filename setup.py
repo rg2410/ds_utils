@@ -6,5 +6,5 @@ setup(name='ds_utils',
       url='https://github.com/rg2410/ds_utils',
       author='Rafael Fernandes',
       author_email='rafaelgomesfernandes@hotmail.com',
-      packages=['ds_utils'],
+      packages=['src'],
       )
